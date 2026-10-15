@@ -1,0 +1,11 @@
+{
+  "base_url": "http://127.0.0.1:8765",
+  "workers": 16,
+  "max_rps": 40,
+  "timeout_s": 10,
+  "max_retries": 6,
+  "backoff_base_s": 0.5,
+  "backoff_max_s": 20,
+  "user_agent": "portfolio-demo-scraper/1.0",
+  "output_dir": "output"
+}

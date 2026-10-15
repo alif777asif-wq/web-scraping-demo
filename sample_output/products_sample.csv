@@ -1,0 +1,101 @@
+sku,name,price_usd,stock,rating,category,url
+SKU-000001,Vertex Compact Speaker 383,118.41,52,3.7,Bags,http://127.0.0.1:8765/item/1
+SKU-000002,Tandem Eco Headphones 796,21.67,62,2.8,Computing,http://127.0.0.1:8765/item/2
+SKU-000003,Quill Turbo Mouse 227,32.28,68,,Outdoors,http://127.0.0.1:8765/item/3
+SKU-000004,Harbor Prime Charger 807,34.53,3,3.1,Networking,http://127.0.0.1:8765/item/4
+SKU-000005,Aurora Ultra Backpack 398,65.43,7,,Outdoors,http://127.0.0.1:8765/item/5
+SKU-000006,Zephyr Classic Bottle 867,44.37,77,3.5,Bags,http://127.0.0.1:8765/item/6
+SKU-000007,Zephyr Slim Webcam 511,26.28,9,2.1,Computing,http://127.0.0.1:8765/item/7
+SKU-000008,Ember Pro Keyboard 869,264.1,53,3.7,Accessories,http://127.0.0.1:8765/item/8
+SKU-000009,Kestrel Turbo Stand 553,33.62,79,2.8,Bags,http://127.0.0.1:8765/item/9
+SKU-000010,Ember Slim Keyboard 552,39.63,32,2.2,Bags,http://127.0.0.1:8765/item/10
+SKU-000011,Aurora Classic Stand 984,64.6,10,1.8,Computing,http://127.0.0.1:8765/item/11
+SKU-000012,Ember Slim Bottle 356,45.78,32,4.4,Home Office,http://127.0.0.1:8765/item/12
+SKU-000013,Vertex Slim Bottle 328,116.98,60,3.1,Networking,http://127.0.0.1:8765/item/13
+SKU-000014,Cobalt Lite Notebook 583,88.36,41,3.6,Bags,http://127.0.0.1:8765/item/14
+SKU-000015,Orbit Turbo Webcam 139,29.34,61,2.3,Audio,http://127.0.0.1:8765/item/15
+SKU-000016,Quill Prime Webcam 524,70.2,7,4.1,Accessories,http://127.0.0.1:8765/item/16
+SKU-000017,Aurora Pro Webcam 645,55.62,68,4.3,Home Office,http://127.0.0.1:8765/item/17
+SKU-000018,Aurora Smart Router 153,47.37,22,4.9,Computing,http://127.0.0.1:8765/item/18
+SKU-000019,Aurora Ultra Webcam 589,92.77,0,3.2,Bags,http://127.0.0.1:8765/item/19
+SKU-000020,Orbit Lite Desk Lamp 331,20.2,35,3.8,Bags,http://127.0.0.1:8765/item/20
+SKU-000021,Kestrel Lite Router 542,82.68,4,,Bags,http://127.0.0.1:8765/item/21
+SKU-000022,Vertex Turbo Desk Lamp 985,27.22,19,3.0,Home Office,http://127.0.0.1:8765/item/22
+SKU-000023,Orbit Compact Webcam 255,19.37,17,3.3,Bags,http://127.0.0.1:8765/item/23
+SKU-000024,Orbit Slim Headphones 633,28.09,70,2.3,Networking,http://127.0.0.1:8765/item/24
+SKU-000025,Vertex Pro Bottle 731,146.59,0,2.6,Outdoors,http://127.0.0.1:8765/item/25
+SKU-000026,Lumen Slim Headphones 894,22.06,0,4.1,Accessories,http://127.0.0.1:8765/item/26
+SKU-000027,Aurora Lite Desk Lamp 749,29.45,4,1.9,Computing,http://127.0.0.1:8765/item/27
+SKU-000028,Ember Eco Webcam 763,35.55,14,3.1,Networking,http://127.0.0.1:8765/item/28
+SKU-000029,Orbit Turbo Speaker 738,201.34,13,4.1,Audio,http://127.0.0.1:8765/item/29
+SKU-000030,Orbit Eco Desk Lamp 329,22.41,1,1.9,Networking,http://127.0.0.1:8765/item/30
+SKU-000031,Tandem Ultra Charger 268,21.82,38,1.6,Outdoors,http://127.0.0.1:8765/item/31
+SKU-000032,Nimbus Ultra Mouse 975,28.19,19,4.9,Accessories,http://127.0.0.1:8765/item/32
+SKU-000033,Lumen Compact Backpack 378,15.87,7,2.4,Computing,http://127.0.0.1:8765/item/33
+SKU-000034,Quill Smart Desk Lamp 559,78.09,10,3.5,Networking,http://127.0.0.1:8765/item/34
+SKU-000035,Cobalt Compact Notebook 404,64.2,3,1.7,Bags,http://127.0.0.1:8765/item/35
+SKU-000036,Vertex Prime Headphones 257,31.4,23,3.9,Bags,http://127.0.0.1:8765/item/36
+SKU-000037,Zephyr Smart Notebook 759,106.32,26,4.4,Networking,http://127.0.0.1:8765/item/37
+SKU-000038,Tandem Smart Keyboard 914,121.6,1,2.3,Networking,http://127.0.0.1:8765/item/38
+SKU-000039,Nimbus Ultra Router 374,198.79,12,2.1,Networking,http://127.0.0.1:8765/item/39
+SKU-000040,Zephyr Turbo Webcam 590,11.19,69,3.1,Outdoors,http://127.0.0.1:8765/item/40
+SKU-000041,Cobalt Lite Desk Lamp 983,3.56,62,3.6,Networking,http://127.0.0.1:8765/item/41
+SKU-000042,Vertex Prime Keyboard 598,12.6,44,3.1,Home Office,http://127.0.0.1:8765/item/42
+SKU-000043,Tandem Classic Router 950,19.17,75,3.5,Accessories,http://127.0.0.1:8765/item/43
+SKU-000044,Tandem Ultra Notebook 278,29.21,78,4.3,Outdoors,http://127.0.0.1:8765/item/44
+SKU-000045,Orbit Turbo Desk Lamp 985,30.58,0,2.2,Computing,http://127.0.0.1:8765/item/45
+SKU-000046,Vertex Slim Charger 994,34.69,73,5.0,Audio,http://127.0.0.1:8765/item/46
+SKU-000047,Vertex Lite Charger 320,43.14,26,2.5,Networking,http://127.0.0.1:8765/item/47
+SKU-000048,Lumen Slim Stand 928,44.93,61,1.8,Accessories,http://127.0.0.1:8765/item/48
+SKU-000049,Vertex Slim Notebook 836,62.07,19,1.7,Bags,http://127.0.0.1:8765/item/49
+SKU-000050,Zephyr Lite Headphones 399,48.93,52,3.1,Outdoors,http://127.0.0.1:8765/item/50
+SKU-000051,Ember Compact Mouse 943,16.4,10,1.7,Computing,http://127.0.0.1:8765/item/51
+SKU-000052,Aurora Slim Webcam 868,219.01,30,2.4,Outdoors,http://127.0.0.1:8765/item/52
+SKU-000053,Lumen Smart Keyboard 504,26.22,3,1.5,Accessories,http://127.0.0.1:8765/item/53
+SKU-000054,Quill Lite Desk Lamp 259,71.52,2,2.7,Outdoors,http://127.0.0.1:8765/item/54
+SKU-000055,Tandem Pro Desk Lamp 418,36.33,4,2.0,Accessories,http://127.0.0.1:8765/item/55
+SKU-000056,Tandem Classic Charger 703,215.27,53,,Outdoors,http://127.0.0.1:8765/item/56
+SKU-000057,Orbit Smart Mouse 564,65.71,0,2.5,Networking,http://127.0.0.1:8765/item/57
+SKU-000058,Lumen Ultra Keyboard 548,353.44,9,4.4,Computing,http://127.0.0.1:8765/item/58
+SKU-000059,Lumen Classic Backpack 161,26.38,39,2.9,Home Office,http://127.0.0.1:8765/item/59
+SKU-000060,Kestrel Prime Stand 224,46.12,1,2.3,Audio,http://127.0.0.1:8765/item/60
+SKU-000061,Kestrel Prime Headphones 103,51.07,78,3.8,Accessories,http://127.0.0.1:8765/item/61
+SKU-000062,Tandem Lite Backpack 284,93.57,47,,Outdoors,http://127.0.0.1:8765/item/62
+SKU-000063,Ember Pro Desk Lamp 986,62.7,54,3.7,Accessories,http://127.0.0.1:8765/item/63
+SKU-000064,Tandem Slim Router 432,13.57,38,3.5,Networking,http://127.0.0.1:8765/item/64
+SKU-000065,Kestrel Pro Charger 389,104.09,1,2.7,Computing,http://127.0.0.1:8765/item/65
+SKU-000066,Kestrel Compact Speaker 185,26.98,47,4.5,Computing,http://127.0.0.1:8765/item/66
+SKU-000067,Harbor Prime Notebook 267,119.91,0,1.6,Accessories,http://127.0.0.1:8765/item/67
+SKU-000068,Harbor Slim Mouse 624,17.16,11,1.8,Home Office,http://127.0.0.1:8765/item/68
+SKU-000069,Tandem Turbo Keyboard 632,112.69,1,3.9,Home Office,http://127.0.0.1:8765/item/69
+SKU-000070,Ember Lite Bottle 989,42.58,43,,Outdoors,http://127.0.0.1:8765/item/70
+SKU-000071,Nimbus Compact Bottle 535,53.91,0,4.5,Computing,http://127.0.0.1:8765/item/71
+SKU-000072,Tandem Compact Webcam 812,89.34,73,3.7,Home Office,http://127.0.0.1:8765/item/72
+SKU-000073,Nimbus Classic Bottle 861,150.11,50,4.4,Home Office,http://127.0.0.1:8765/item/73
+SKU-000074,Nimbus Slim Bottle 221,25.95,22,2.6,Networking,http://127.0.0.1:8765/item/74
+SKU-000075,Quill Turbo Desk Lamp 167,59.42,5,1.9,Audio,http://127.0.0.1:8765/item/75
+SKU-000076,Orbit Turbo Speaker 926,116.63,52,2.0,Audio,http://127.0.0.1:8765/item/76
+SKU-000077,Tandem Ultra Speaker 176,85.28,66,1.9,Accessories,http://127.0.0.1:8765/item/77
+SKU-000078,Lumen Compact Stand 768,60.26,15,3.5,Outdoors,http://127.0.0.1:8765/item/78
+SKU-000079,Harbor Ultra Bottle 409,86.43,19,4.8,Networking,http://127.0.0.1:8765/item/79
+SKU-000080,Nimbus Lite Router 596,9.86,18,2.8,Networking,http://127.0.0.1:8765/item/80
+SKU-000081,Zephyr Smart Stand 464,41.16,67,3.1,Accessories,http://127.0.0.1:8765/item/81
+SKU-000082,Quill Prime Router 621,24.2,27,1.9,Audio,http://127.0.0.1:8765/item/82
+SKU-000083,Lumen Ultra Stand 426,21.35,4,2.3,Outdoors,http://127.0.0.1:8765/item/83
+SKU-000084,Quill Smart Speaker 294,22.32,5,3.3,Home Office,http://127.0.0.1:8765/item/84
+SKU-000085,Cobalt Eco Headphones 338,40.1,0,3.2,Accessories,http://127.0.0.1:8765/item/85
+SKU-000086,Aurora Lite Router 286,81.09,13,3.9,Outdoors,http://127.0.0.1:8765/item/86
+SKU-000087,Quill Lite Mouse 609,312.42,0,3.2,Bags,http://127.0.0.1:8765/item/87
+SKU-000088,Vertex Smart Headphones 377,30.65,26,2.7,Accessories,http://127.0.0.1:8765/item/88
+SKU-000089,Kestrel Ultra Webcam 814,65.32,16,2.5,Networking,http://127.0.0.1:8765/item/89
+SKU-000090,Orbit Turbo Notebook 713,44.08,46,1.8,Audio,http://127.0.0.1:8765/item/90
+SKU-000091,Orbit Prime Headphones 652,28.04,5,3.6,Home Office,http://127.0.0.1:8765/item/91
+SKU-000092,Ember Lite Backpack 456,10.64,76,1.6,Accessories,http://127.0.0.1:8765/item/92
+SKU-000093,Vertex Lite Notebook 737,37.94,61,3.4,Outdoors,http://127.0.0.1:8765/item/93
+SKU-000094,Cobalt Pro Charger 868,141.42,5,4.7,Accessories,http://127.0.0.1:8765/item/94
+SKU-000095,Orbit Slim Keyboard 148,33.57,60,3.5,Bags,http://127.0.0.1:8765/item/95
+SKU-000096,Nimbus Pro Charger 601,10.92,0,4.1,Audio,http://127.0.0.1:8765/item/96
+SKU-000097,Aurora Ultra Notebook 654,27.16,64,4.2,Home Office,http://127.0.0.1:8765/item/97
+SKU-000098,Lumen Prime Webcam 111,157.36,0,1.9,Computing,http://127.0.0.1:8765/item/98
+SKU-000099,Kestrel Turbo Desk Lamp 339,21.66,44,4.4,Home Office,http://127.0.0.1:8765/item/99
+SKU-000100,Ember Compact Backpack 272,80.83,20,2.7,Computing,http://127.0.0.1:8765/item/100

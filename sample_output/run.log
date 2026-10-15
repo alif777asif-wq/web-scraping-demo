@@ -1,0 +1,152 @@
+05:45:03 [INFO] Starting run #1: http://127.0.0.1:8765, 16 workers, max 40 req/s
+05:45:03 [INFO] Catalog has 2,400 pages
+05:45:04 [WARN] page=19 HTTP 429, retry 1/6 in 1.0s
+05:45:04 [WARN] page=20 HTTP 429, retry 1/6 in 1.0s
+05:45:04 [WARN] page=32 HTTP 429, retry 1/6 in 1.0s
+05:45:04 [WARN] page=45 HTTP 429, retry 1/6 in 1.0s
+05:45:04 [WARN] page=51 HTTP 429, retry 1/6 in 1.0s
+05:45:04 [WARN] page=54 HTTP 429, retry 1/6 in 1.0s
+05:45:05 [WARN] page=72 HTTP 500, retry 1/6 in 0.1s
+05:45:05 [WARN] page=78 HTTP 429, retry 1/6 in 1.0s
+05:45:05 [WARN] page=85 HTTP 429, retry 1/6 in 1.0s
+05:45:08 [WARN] page=174 HTTP 429, retry 1/6 in 1.0s
+05:45:08 [WARN] page=189 HTTP 429, retry 1/6 in 1.0s
+05:45:08 [WARN] page=202 HTTP 429, retry 1/6 in 1.0s
+05:45:09 [WARN] page=221 HTTP 500, retry 1/6 in 0.2s
+05:45:09 [WARN] page=240 HTTP 429, retry 1/6 in 1.0s
+05:45:10 [WARN] page=268 HTTP 429, retry 1/6 in 1.0s
+05:45:11 [WARN] page=305 HTTP 429, retry 1/6 in 1.0s
+05:45:11 [WARN] page=268 HTTP 429, retry 2/6 in 1.0s
+05:45:11 [INFO] Progress 301/2,400 pages (36 pages/s)
+05:45:11 [WARN] page=309 HTTP 500, retry 1/6 in 0.3s
+05:45:13 [WARN] page=364 HTTP 429, retry 1/6 in 1.0s
+05:45:13 [WARN] page=378 HTTP 500, retry 1/6 in 0.0s
+05:45:14 [WARN] page=393 HTTP 429, retry 1/6 in 1.0s
+05:45:14 [WARN] page=402 HTTP 500, retry 1/6 in 0.1s
+05:45:14 [WARN] page=410 HTTP 429, retry 1/6 in 1.0s
+05:45:14 [WARN] page=412 HTTP 429, retry 1/6 in 1.0s
+05:45:16 [WARN] page=463 HTTP 429, retry 1/6 in 1.0s
+05:45:16 [WARN] page=469 HTTP 429, retry 1/6 in 1.0s
+05:45:16 [WARN] page=474 HTTP 500, retry 1/6 in 0.5s
+05:45:16 [WARN] page=491 HTTP 500, retry 1/6 in 0.1s
+05:45:17 [WARN] page=463 HTTP 429, retry 2/6 in 1.0s
+05:45:18 [WARN] page=558 HTTP 429, retry 1/6 in 1.0s
+05:45:19 [WARN] page=575 HTTP 429, retry 1/6 in 1.0s
+05:45:19 [WARN] page=596 HTTP 429, retry 1/6 in 1.0s
+05:45:19 [WARN] page=598 HTTP 429, retry 1/6 in 1.0s
+05:45:20 [INFO] Progress 601/2,400 pages (37 pages/s)
+05:45:20 [WARN] page=615 HTTP 429, retry 1/6 in 1.0s
+05:45:20 [WARN] page=620 HTTP 500, retry 1/6 in 0.5s
+05:45:20 [WARN] page=629 HTTP 429, retry 1/6 in 1.0s
+05:45:20 [WARN] page=643 HTTP 429, retry 1/6 in 1.0s
+05:45:20 [WARN] page=644 HTTP 500, retry 1/6 in 0.3s
+05:45:21 [WARN] page=665 HTTP 429, retry 1/6 in 1.0s
+05:45:21 [WARN] page=670 HTTP 500, retry 1/6 in 0.3s
+05:45:21 [WARN] page=671 HTTP 429, retry 1/6 in 1.0s
+05:45:21 [WARN] page=679 HTTP 429, retry 1/6 in 1.0s
+05:45:22 [WARN] page=693 HTTP 429, retry 1/6 in 1.0s
+05:45:22 [WARN] page=699 HTTP 429, retry 1/6 in 1.0s
+05:45:22 [WARN] page=703 HTTP 429, retry 1/6 in 1.0s
+05:45:22 [WARN] page=708 HTTP 429, retry 1/6 in 1.0s
+05:45:22 [WARN] page=707 HTTP 500, retry 1/6 in 0.0s
+05:45:23 [WARN] page=747 HTTP 429, retry 1/6 in 1.0s
+05:45:24 [WARN] page=756 HTTP 500, retry 1/6 in 0.3s
+05:45:24 [WARN] page=774 HTTP 500, retry 1/6 in 0.0s
+05:45:24 [WARN] page=756 HTTP 429, retry 2/6 in 1.0s
+05:45:24 [WARN] page=786 HTTP 429, retry 1/6 in 1.0s
+05:45:24 [WARN] page=787 HTTP 429, retry 1/6 in 1.0s
+05:45:24 [WARN] page=791 HTTP 429, retry 1/6 in 1.0s
+05:45:25 [WARN] page=820 HTTP 429, retry 1/6 in 1.0s
+05:45:25 [WARN] page=826 HTTP 500, retry 1/6 in 0.5s
+05:45:26 [WARN] page=846 HTTP 429, retry 1/6 in 1.0s
+05:45:26 [WARN] page=826 HTTP 429, retry 2/6 in 1.0s
+05:45:27 [WARN] page=875 HTTP 429, retry 1/6 in 1.0s
+05:45:27 [WARN] page=882 HTTP 429, retry 1/6 in 1.0s
+05:45:27 [WARN] page=903 HTTP 500, retry 1/6 in 0.3s
+05:45:28 [INFO] Progress 901/2,400 pages (37 pages/s)
+05:45:28 [WARN] page=914 HTTP 429, retry 1/6 in 1.0s
+05:45:29 [WARN] page=964 HTTP 429, retry 1/6 in 1.0s
+05:45:29 [WARN] page=965 HTTP 429, retry 1/6 in 1.0s
+05:45:29 [WARN] page=968 HTTP 429, retry 1/6 in 1.0s
+05:45:31 [WARN] page=1022 HTTP 429, retry 1/6 in 1.0s
+05:45:31 [WARN] page=1023 HTTP 429, retry 1/6 in 1.0s
+05:45:31 [WARN] page=1032 HTTP 429, retry 1/6 in 1.0s
+05:45:32 [WARN] page=1032 HTTP 500, retry 2/6 in 0.4s
+05:45:33 [WARN] demo runner: scraper killed at 1,088/2,400 pages (simulated crash)
+05:45:33 [INFO] Resuming run #2: 1,088/2,400 pages already done, 1,312 remaining
+05:45:33 [WARN] page=1093 HTTP 429, retry 1/6 in 1.0s
+05:45:34 [WARN] page=1114 HTTP 429, retry 1/6 in 1.0s
+05:45:34 [WARN] page=1116 HTTP 429, retry 1/6 in 1.0s
+05:45:34 [WARN] page=1122 HTTP 429, retry 1/6 in 1.0s
+05:45:35 [WARN] page=1158 HTTP 500, retry 1/6 in 0.3s
+05:45:35 [WARN] page=1169 HTTP 500, retry 1/6 in 0.5s
+05:45:36 [WARN] page=1217 HTTP 500, retry 1/6 in 0.3s
+05:45:37 [WARN] page=1238 HTTP 429, retry 1/6 in 1.0s
+05:45:37 [WARN] page=1249 HTTP 500, retry 1/6 in 0.1s
+05:45:37 [WARN] page=1252 HTTP 500, retry 1/6 in 0.4s
+05:45:38 [WARN] page=1270 HTTP 429, retry 1/6 in 1.0s
+05:45:38 [WARN] page=1277 HTTP 500, retry 1/6 in 0.4s
+05:45:39 [WARN] page=1295 HTTP 500, retry 1/6 in 0.3s
+05:45:40 [WARN] page=1362 HTTP 429, retry 1/6 in 1.0s
+05:45:41 [WARN] page=1379 HTTP 500, retry 1/6 in 0.3s
+05:45:41 [INFO] Progress 1,388/2,400 pages (38 pages/s)
+05:45:41 [WARN] page=1396 HTTP 429, retry 1/6 in 1.0s
+05:45:41 [WARN] page=1395 HTTP 429, retry 1/6 in 1.0s
+05:45:41 [WARN] page=1404 HTTP 429, retry 1/6 in 1.0s
+05:45:41 [WARN] page=1409 HTTP 429, retry 1/6 in 1.0s
+05:45:42 [WARN] page=1450 HTTP 429, retry 1/6 in 1.0s
+05:45:43 [WARN] page=1463 HTTP 429, retry 1/6 in 1.0s
+05:45:43 [WARN] page=1470 HTTP 500, retry 1/6 in 0.4s
+05:45:44 [WARN] page=1496 HTTP 429, retry 1/6 in 1.0s
+05:45:45 [WARN] page=1533 HTTP 500, retry 1/6 in 0.5s
+05:45:46 [WARN] page=1570 HTTP 429, retry 1/6 in 1.0s
+05:45:46 [WARN] page=1600 HTTP 500, retry 1/6 in 0.5s
+05:45:47 [WARN] page=1620 HTTP 500, retry 1/6 in 0.0s
+05:45:47 [WARN] page=1623 HTTP 429, retry 1/6 in 1.0s
+05:45:48 [WARN] page=1646 HTTP 429, retry 1/6 in 1.0s
+05:45:49 [INFO] Progress 1,688/2,400 pages (38 pages/s)
+05:45:49 [WARN] page=1691 HTTP 429, retry 1/6 in 1.0s
+05:45:49 [WARN] page=1701 HTTP 429, retry 1/6 in 1.0s
+05:45:50 [WARN] page=1733 HTTP 429, retry 1/6 in 1.0s
+05:45:50 [WARN] page=1737 HTTP 429, retry 1/6 in 1.0s
+05:45:50 [WARN] page=1748 HTTP 429, retry 1/6 in 1.0s
+05:45:51 [WARN] page=1756 HTTP 429, retry 1/6 in 1.0s
+05:45:51 [WARN] page=1765 HTTP 429, retry 1/6 in 1.0s
+05:45:51 [WARN] page=1767 HTTP 429, retry 1/6 in 1.0s
+05:45:51 [WARN] page=1784 HTTP 500, retry 1/6 in 0.3s
+05:45:51 [WARN] page=1786 HTTP 429, retry 1/6 in 1.0s
+05:45:53 [WARN] page=1824 HTTP 500, retry 1/6 in 0.2s
+05:45:54 [WARN] page=1861 HTTP 429, retry 1/6 in 1.0s
+05:45:54 [WARN] page=1877 HTTP 429, retry 1/6 in 1.0s
+05:45:54 [WARN] page=1878 HTTP 429, retry 1/6 in 1.0s
+05:45:55 [WARN] page=1909 HTTP 429, retry 1/6 in 1.0s
+05:45:55 [WARN] page=1907 HTTP 429, retry 1/6 in 1.0s
+05:45:55 [WARN] page=1861 HTTP 429, retry 2/6 in 1.0s
+05:45:55 [WARN] page=1922 HTTP 429, retry 1/6 in 1.0s
+05:45:55 [WARN] page=1918 HTTP 429, retry 1/6 in 1.0s
+05:45:55 [WARN] page=1923 HTTP 429, retry 1/6 in 1.0s
+05:45:55 [WARN] page=1931 HTTP 429, retry 1/6 in 1.0s
+05:45:56 [WARN] page=1960 HTTP 429, retry 1/6 in 1.0s
+05:45:57 [WARN] page=1983 HTTP 429, retry 1/6 in 1.0s
+05:45:57 [INFO] Progress 1,988/2,400 pages (37 pages/s)
+05:45:57 [WARN] page=2001 HTTP 500, retry 1/6 in 0.2s
+05:45:58 [WARN] page=2028 HTTP 429, retry 1/6 in 1.0s
+05:45:59 [WARN] page=2054 HTTP 429, retry 1/6 in 1.0s
+05:45:59 [WARN] page=2068 HTTP 429, retry 1/6 in 1.0s
+05:45:59 [WARN] page=2078 HTTP 500, retry 1/6 in 0.2s
+05:46:00 [WARN] page=2103 HTTP 429, retry 1/6 in 1.0s
+05:46:01 [WARN] page=2134 HTTP 429, retry 1/6 in 1.0s
+05:46:02 [WARN] page=2156 HTTP 429, retry 1/6 in 1.0s
+05:46:02 [WARN] page=2167 HTTP 429, retry 1/6 in 1.0s
+05:46:03 [WARN] page=2210 HTTP 500, retry 1/6 in 0.4s
+05:46:04 [WARN] page=2243 HTTP 429, retry 1/6 in 1.0s
+05:46:05 [WARN] page=2273 HTTP 429, retry 1/6 in 1.0s
+05:46:05 [WARN] page=2279 HTTP 500, retry 1/6 in 0.3s
+05:46:06 [INFO] Progress 2,288/2,400 pages (37 pages/s)
+05:46:06 [WARN] page=2310 HTTP 429, retry 1/6 in 1.0s
+05:46:07 [WARN] page=2343 HTTP 429, retry 1/6 in 1.0s
+05:46:08 [INFO] Fetch complete: 2,400/2,400 pages, 120,599 rows, 1,379 requests, 67 retries, 35.5s
+05:46:09 [INFO] Duplicates removed: 599 (of 120,599 rows scraped)
+05:46:11 [INFO] Schema validation: 119,125 valid, 875 rejected {"missing_name": 228, "missing_price": 647}
+05:46:19 [INFO] Export finished: products.csv, products.json, products.xlsx, products.db
+05:46:19 [INFO] Run report written: output/run_report.json

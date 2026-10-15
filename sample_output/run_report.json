@@ -1,0 +1,35 @@
+{
+  "environment": "local replica server, synthetic data, injected latency / 429 / 500",
+  "finished_at": "2026-10-15T05:46:19+00:00",
+  "pages_total": 2400,
+  "pages_done": 2400,
+  "page_success_rate_pct": 100.0,
+  "rows_scraped": 120599,
+  "unique_products": 120000,
+  "duplicates_removed": 599,
+  "valid_rows": 119125,
+  "rejected_rows": 875,
+  "rejected_by_reason": {
+    "missing_name": 228,
+    "missing_price": 647
+  },
+  "requests_total": 2550,
+  "requests_ok": 2404,
+  "request_success_rate_pct": 94.27,
+  "http_429": 102,
+  "http_5xx": 34,
+  "network_errors": 0,
+  "retries": 136,
+  "runs": 2,
+  "crash_resumes": 1,
+  "fetch_runtime_s": 65.3,
+  "finalize_runtime_s": 10.6,
+  "total_runtime_s": 75.9,
+  "rows_per_second": 1848.0,
+  "exports_bytes": {
+    "products.csv": 10758612,
+    "products.json": 19026729,
+    "products.xlsx": 5467832,
+    "products.db": 30625792
+  }
+}
